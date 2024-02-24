@@ -11,7 +11,7 @@ The template creates:
 •	Check the output for a link to the zip we build, it will look like this: https://emp3-application.s3.amazonaws.com/corp-app.zip
 
 
-Create the RDS app
+Create the RDS app-
 ==================
 
 Create an ec2 instance:
